@@ -9,6 +9,7 @@ namespace puttr.uk.app.Data
     {
         public int id;
         public string handle;
+        public string email;
 
 
     }
